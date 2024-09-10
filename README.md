@@ -6,6 +6,6 @@
 
 ## How to Get Started
 1. To make  game will indicate whose turn (Player A or Player B) it is. When the game ends, it displays one of the following outcomes:
-   * Winner: Player A
-   * Winner: Player B
+   * Winner: P1
+   * Winner: P2
    * Draw
